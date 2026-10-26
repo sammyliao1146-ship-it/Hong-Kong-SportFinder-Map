@@ -218,3 +218,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# HK SportFinder local configuration and build output
+.env
+.env.*
+!.env.example
+node_modules/
+frontend/dist/
+.DS_Store
+data/cache/

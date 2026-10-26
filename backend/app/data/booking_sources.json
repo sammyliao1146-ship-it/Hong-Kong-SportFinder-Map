@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-10-22",
+  "directory_dataset_count": 3831,
+  "lcsd_dataset_count": 124,
+  "scope": "LCSD publicly published sports facility booking availability; excludes programme enrolment, library computers and historical usage.",
+  "catalog_url": "https://data.gov.hk/en-data/api/3/action/package_list",
+  "items": [
+    {
+      "key": "badminton",
+      "label": "羽毛球",
+      "source_url": "https://data.smartplay.lcsd.gov.hk/rest/cms/api/v1/publ/contents/open-data/badminton/file",
+      "dataset_id": "hk-lcsd-facility-facility-bmtcvenue",
+      "dataset_url": "https://data.gov.hk/en-data/dataset/hk-lcsd-facility-facility-bmtcvenue",
+      "update_interval_seconds": 300
+    },
+    {
+      "key": "basketball",
+      "label": "篮球",
+      "source_url": "https://data.smartplay.lcsd.gov.hk/rest/cms/api/v1/publ/contents/open-data/basketball/file",
+      "dataset_id": "hk-lcsd-facility-facility-bkbcvenue",
+      "dataset_url": "https://data.gov.hk/en-data/dataset/hk-lcsd-facility-facility-bkbcvenue",
+      "update_interval_seconds": 300
+    },
+    {
+      "key": "volleyball",
+      "label": "排球",
+      "source_url": "https://data.smartplay.lcsd.gov.hk/rest/cms/api/v1/publ/contents/open-data/volleyball/file",
+      "dataset_id": "hk-lcsd-facility-facility-vbcvenue",
+      "dataset_url": "https://data.gov.hk/en-data/dataset/hk-lcsd-facility-facility-vbcvenue",
+      "update_interval_seconds": 300
+    },
+    {
+      "key": "tennis",
+      "label": "网球",
+      "source_url": "https://data.smartplay.lcsd.gov.hk/rest/cms/api/v1/publ/contents/open-data/tennis/file",
+      "dataset_id": "hk-lcsd-facility-facility-tcvenue",
+      "dataset_url": "https://data.gov.hk/en-data/dataset/hk-lcsd-facility-facility-tcvenue",
+      "update_interval_seconds": 300
+    },
+    {
+      "key": "turf-soccer-pitch",
+      "label": "草地足球",
+      "source_url": "https://data.smartplay.lcsd.gov.hk/rest/cms/api/v1/publ/contents/open-data/turf-soccer-pitch/file",
+      "dataset_id": "hk-lcsd-facility-facility-tsp",
+      "dataset_url": "https://data.gov.hk/en-data/dataset/hk-lcsd-facility-facility-tsp",
+      "update_interval_seconds": 300
+    }
+  ]
+}
